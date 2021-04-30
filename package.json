@@ -1,0 +1,22 @@
+{
+  "name": "rabbitmq_getstarted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AugustinRibreau/RabbitMQ_GetStarted.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AugustinRibreau/RabbitMQ_GetStarted/issues"
+  },
+  "homepage": "https://github.com/AugustinRibreau/RabbitMQ_GetStarted#readme",
+  "dependencies": {
+    "amqplib": "^0.7.1"
+  }
+}
